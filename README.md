@@ -34,5 +34,4 @@
 </a>
   
 <a href="#stats">
-<img align="center" alt="Krish's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=amaansmdM10&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
+<img align="center" alt="Krish's top languages" src="https://camo.githubusercontent.com/a0a992361e7892e9de6f5dbf6262db5514a6496dfd3dcac884280c5bf2307c6c/68747470733a2f2f67682d726561646d652d73746174732d6a72327a61666966362e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d47754e4430576e313531266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d746f6b796f6e69676874" data-canonical-src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=amaansmdM10&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight" style="max-width:100%;">
